@@ -5,3 +5,7 @@ out/
 !.env.example
 *.tsbuildinfo
 .vercel/
+*.db
+*.db-shm
+*.db-wal
+test-results/
